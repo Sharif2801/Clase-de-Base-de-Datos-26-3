@@ -1,0 +1,30 @@
+﻿who_region,iso3,country_name,city,year,version,pm10_concentration,pm25_concentration,no2_concentration,pm10_tempcov,pm25_tempcov,no2_tempcov,type_of_stations,reference,web_link,population,population_source,latitude,longitude,who_ms
+4_Eur,ESP,Spain,A Coruna/ESP,2013,"V4.0 (2018), V4.0 (2018), V4.0 (2018), V4.0 (2018), V4.0 (2018), V4.0 (2018), V4.0 (2018)",23.238,11.491,28.841,87,46,93,"Urban, Urban, Suburban",NA,NA,246146,"manual, manual, manual, manual",43.3679,-8.418571143,1
+4_Eur,ESP,Spain,A Coruna/ESP,2014,"V6.0  (2023), V6.0  (2023), V6.0  (2023)",27.476,15.878,19.575,96,88,95,"Urban, Urban, Suburban",NA,NA,247604,NA,43.36803333,-8.418233333,1
+4_Eur,ESP,Spain,A Coruna/ESP,2015,"V6.0  (2023), V6.0  (2023), V6.0  (2023), V6.0  (2023)",25.515,14.004,22.731,98,71,98,"Urban, Urban, Suburban, Suburban",NA,NA,247604,NA,43.370375,-8.4229,1
+4_Eur,ESP,Spain,A Coruna/ESP,2016,"V6.0  (2023), V6.0  (2023), V6.0  (2023), V6.0  (2023)",23.057,13.16,20.204,98,98,98,"Urban, Urban, Suburban, Suburban",NA,NA,247604,NA,43.370375,-8.4229,1
+4_Eur,ESP,Spain,A Coruna/ESP,2017,"V6.0  (2023), V6.0  (2023), V6.0  (2023), V6.0  (2023)",26.849,14.114,21.543,97,97,98,"Urban, Urban, Suburban, Suburban",NA,NA,247604,NA,43.370375,-8.4229,1
+4_Eur,ESP,Spain,A Coruna/ESP,2018,"V6.0  (2023), V6.0  (2023), V6.0  (2023), V6.0  (2023)",27.763,14.876,20.328,98,86,99,"Urban, Urban, Suburban, Suburban",NA,NA,247604,NA,43.370375,-8.4229,1
+4_Eur,ESP,Spain,A Coruna/ESP,2019,"V6.0  (2023), V6.0  (2023), V6.0  (2023), V6.0  (2023)",26.912,13.017,18.339,98,95,98,"Urban, Urban, Suburban, Suburban",NA,NA,247604,NA,43.370375,-8.4229,1
+4_Eur,ESP,Spain,A Coruna/ESP,2020,"V6.0  (2023), V6.0  (2023), V6.0  (2023)",24.9,12.926,13.749,99,98,99,"Urban, Suburban, Suburban",NA,NA,247604,NA,43.37146667,-8.423666667,1
+4_Eur,ESP,Spain,A Coruna/ESP,2021,"V6.0  (2023), V6.0  (2023), V6.0  (2023)",23.228,11.617,15.67,99,98,99,"Urban, Suburban, Suburban",NA,NA,247604,NA,43.37146667,-8.423666667,1
+6_Wpr,CHN,China,A La Shan Zuo Qi/CHN,2015,V5.0 (2022),NA,33.015,NA,NA,100,NA,NA,NA,NA,NA,NA,38.8395,105.69215,1
+6_Wpr,CHN,China,A La Shan Zuo Qi/CHN,2016,V5.0 (2022),NA,34.394,NA,NA,100,NA,NA,NA,NA,NA,NA,38.8395,105.69215,1
+4_Eur,DEU,Germany,Aachen/DEU,2010,"V4.0 (2018), V4.0 (2018), V4.0 (2018), V4.0 (2018)",25.955,NA,37.283,98,NA,93,NA,NA,NA,259160,"old database, old database, old database, old database",50.763918,6.094849,1
+4_Eur,DEU,Germany,Aachen/DEU,2013,"V4.0 (2018), V4.0 (2018), V4.0 (2018), V4.0 (2018), V4.0 (2018), V4.0 (2018)",25.059,13.988,39.905,100,98,97,"Urban, Urban, Urban",NA,NA,254060,"old database, old database, old database",50.76751117,6.095638333,1
+4_Eur,DEU,Germany,Aachen/DEU,2014,"V6.0  (2023), V6.0  (2023), V6.0  (2023)",21.168,11.512,39.148,99,99,96,"Urban, Urban, Urban",NA,NA,248960,NA,50.7675,6.095633333,1
+4_Eur,DEU,Germany,Aachen/DEU,2015,"V6.0  (2023), V6.0  (2023), V6.0  (2023)",19.983,11.03,36.262,99,98,97,"Urban, Urban, Urban",NA,NA,248960,NA,50.7675,6.095633333,1
+4_Eur,DEU,Germany,Aachen/DEU,2016,"V6.0  (2023), V6.0  (2023), V6.0  (2023), V6.0  (2023)",18.149,10.214,38.217,99,49,97,"Urban, Urban, Urban, Urban",NA,NA,248960,NA,50.774225,6.1025,1
+4_Eur,DEU,Germany,Aachen/DEU,2017,"V6.0  (2023), V6.0  (2023), V6.0  (2023), V6.0  (2023)",17.43,10.231,36.298,100,50,99,"Urban, Urban, Urban, Urban",NA,NA,248960,NA,50.774225,6.1025,1
+4_Eur,DEU,Germany,Aachen/DEU,2018,"V6.0  (2023), V6.0  (2023), V6.0  (2023), V6.0  (2023)",17.954,10.808,35.856,98,50,99,"Urban, Urban, Urban, Urban",NA,NA,248960,NA,50.774225,6.1025,1
+4_Eur,DEU,Germany,Aachen/DEU,2019,"V6.0  (2023), V6.0  (2023), V6.0  (2023), V6.0  (2023)",16.09,8.633,28.995,99,49,98,"Urban, Urban, Urban, Urban",NA,NA,248960,NA,50.774225,6.1025,1
+4_Eur,DEU,Germany,Aachen/DEU,2020,"V6.0  (2023), V6.0  (2023), V6.0  (2023), V6.0  (2023)",13.796,7.818,25.153,100,63,99,"Urban, Urban, Urban, Urban",NA,NA,248960,NA,50.774225,6.1025,1
+4_Eur,DEU,Germany,Aachen/DEU,2021,"V6.0  (2023), V6.0  (2023), V6.0  (2023), V6.0  (2023)",14.528,9.055,25.274,97,73,97,"Urban, Urban, Urban, Urban",NA,NA,248960,NA,50.774225,6.1025,1
+4_Eur,CHE,Switzerland,Aadorf/CHE,2010,"V4.0 (2018), V4.0 (2018)",16.271,NA,14.17,100,NA,100,NA,NA,NA,7301,"manual, manual",47.479767,8.904696,1
+4_Eur,CHE,Switzerland,Aadorf/CHE,2013,"V4.0 (2018), V4.0 (2018)",15.295,NA,13.745,NA,NA,99,NA,NA,NA,7301,"manual, manual",47.4798,8.90468,1
+4_Eur,CHE,Switzerland,Aadorf/CHE,2015,"V5.0 (2022), V5.0 (2022)",13.19,NA,12.938,NA,NA,100,NA,NA,NA,7301,"manual, manual",47.4798,8.90468,1
+4_Eur,CHE,Switzerland,Aadorf/CHE,2016,"V5.0 (2022), V5.0 (2022)",11.451,NA,11.905,NA,NA,100,NA,NA,NA,7301,"manual, manual",47.4798,8.90468,1
+4_Eur,CHE,Switzerland,Aadorf/CHE,2017,"V5.0 (2022), V5.0 (2022)",11.322,NA,11.3,NA,NA,100,NA,NA,NA,7301,"manual, manual",47.4798,8.90468,1
+4_Eur,CHE,Switzerland,Aadorf/CHE,2018,"V5.0 (2022), V5.0 (2022)",13.026,NA,11.98,NA,NA,99,NA,NA,NA,7301,"manual, manual",47.4798,8.90468,1
+4_Eur,CHE,Switzerland,Aadorf/CHE,2019,"V5.0 (2022), V5.0 (2022)",10.931,NA,11.113,NA,NA,100,NA,NA,NA,7301,"manual, manual",47.4798,8.90468,1
+4_Eur,DNK,Denmark,Aalborg/DNK,2010,"V4.0 (2018), V4.0 (2018), V4.0 (2018), V4.0 (2018)",NA,17.319,26.971,NA,90,90,NA,NA,NA,192367,"old database, old database, old database, old database",57.049444,9.924178,1
